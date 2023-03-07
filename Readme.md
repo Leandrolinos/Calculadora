@@ -10,5 +10,5 @@ Na casa N1 e N2 deve se colocar numeros, logo após apertar os botões das repct
 O resultado será exibilo na parte inferior.
 
 
-<p><img align="right" alt"gif" src"https://github.com/Leandrolinos/Calculadora/blob/main/Animação.gif" width="500" height="400" /></p>
+<p><img alt="gif" src"https://github.com/Leandrolinos/Calculadora/blob/main/Animação.gif" width="500" height="400" /></p>
 
