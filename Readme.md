@@ -12,7 +12,9 @@ Na casa N1 e N2 deve se colocar números, logo após apertar os botões das resp
 
 O resultado será exibido na parte inferior.
 
-Está é a ‘interface’ do programa.
+Está é a interface do programa.
+<p></p
+  
 ![image](https://user-images.githubusercontent.com/114179738/223289214-b7c52370-6e6a-4c25-8281-5889534e2fb0.png)
 
 1 — Adicione os números aqui:
